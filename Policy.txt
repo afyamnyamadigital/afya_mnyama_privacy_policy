@@ -1,0 +1,80 @@
+Privacy Policy for Mnyama_Check
+Effective Date: [Insert Date]
+Afya Mnyama Digital Co. Ltd (“we”, “our”, or “us”), operating through https://afyamnyamadigital.co.tz, is committed to protecting the privacy of users of the Mnyama_Check mobile application (“the app”).
+This Privacy Policy explains how we collect, use, and safeguard your personal information when you use the app.
+By using Mnyama_Check, you agree to the collection and use of information in accordance with this policy.
+1. Information We Collect
+1.1 Personal Information
+For a better experience while using our application, we may require you to provide certain personally identifiable information, including but not limited to:
+Name
+Phone number or email address
+Unique user ID
+Livestock or farm-related information you submit in the app
+This information is used for:
+User authentication
+Providing veterinary insights
+Managing your livestock health records
+Delivering customer support
+1.2 Log Data
+Whenever you use our application, in the event of an error we collect information (through third-party products) called Log Data. This may include:
+Device Internet Protocol (IP) address
+Device name and model
+Operating system version
+App configuration during use
+Date and time of use
+Diagnostic information and other statistics
+2. Third-Party Service Providers
+We work with third-party services that help us operate Mnyama_Check.
+These providers may collect information used to identify you. Their use of your data is governed by their individual privacy policies.
+2.1 Firebase Services
+Mnyama_Check uses:
+Firebase Authentication – for user login and identity verification
+Cloud Firestore – to securely store your livestock health data, sensor readings, and user profile details
+Firebase may collect device identifiers, IP addresses, and crash logs.
+2.2 Payment Integrations (If Applicable)
+If Mnyama_Check integrates payment systems such as:
+M-Pesa
+Tigo Pesa
+Airtel Money
+Selcom
+AzamPay
+These platforms handle your payment details directly.
+We do not collect, store, or access your financial information.
+2.3 IoT Device Connectivity
+If you connect Mnyama_Check to an IoT livestock sensor device, we may collect:
+Temperature readings
+Activity steps
+Health status indicators
+These are used only to provide animal health analytics and recommendations.
+We ensure that third-party providers only use your data to perform tasks assigned to them and not for any other purpose.
+3. Security
+We value your trust in providing personal and livestock-related information.
+We use:
+Industry-standard encryption
+Firebase security rules
+Secure communication channels (HTTPS)
+However, no method of transmission over the internet or electronic storage is 100% secure.
+While we strive to protect your data, we cannot guarantee absolute security.
+4. Links to Other Sites
+The app may contain links to external websites.
+If you click on a third-party link, you will be directed to their site.
+Please note:
+These sites are not operated by us
+We strongly recommend reviewing their Privacy Policies
+We are not responsible for their content or practices
+5. Children’s Privacy
+Mnyama_Check is not intended for children under the age of 13.
+We do not knowingly collect personal information from children under 13.
+If we discover that a child under 13 has provided personal data:
+We will delete it immediately
+If you are a parent/guardian and believe this has occurred, please contact us
+6. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time.
+Changes will be posted on:
+The app
+Our website: https://afyamnyamadigital.co.tz
+Changes become effective immediately upon posting. We advise users to review this page periodically.
+7. Contact Us
+If you have any questions, concerns, or suggestions regarding this Privacy Policy, please contact us at:
+📧 support@afyamnyamadigital.co.tz
+🌐 https://afyamnyamadigital.co.tz
